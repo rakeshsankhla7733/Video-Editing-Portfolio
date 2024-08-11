@@ -11,9 +11,9 @@ Welcome to my video editing portfolio! This repository showcases a collection of
 - [Contact](#contact)
 
 ## Introduction
-"My name is Rakesh Sankhla, and I am from Makrana, Rajasthan. I graduated with a B.A. from Apex College, Makrana, in 2022. Afterward, I completed a certification course in Data Science from Internshala. Alongside my studies, I have been working as a freelance video editor.
+My name is Rakesh Sankhla, and I am from Makrana, Rajasthan. I graduated with a B.A. from Apex College, Makrana, in 2022. Afterward, I completed a certification course in Data Science from Internshala. Alongside my studies, I have been working as a freelance video editor.
 
-I am a passionate video editor with 3 years and 6 months of experience in creating compelling visual content. My expertise covers various genres, including highlight videos, gaming videos, traditional videos, and thumbnails. This repository showcases my work, reflecting my commitment to producing high-quality videos that engage and resonate with audiences."
+I am a passionate video editor with 3 years and 6 months of experience in creating compelling visual content. My expertise covers various genres, including highlight videos, gaming videos, traditional videos, and thumbnails. This repository showcases my work, reflecting my commitment to producing high-quality videos that engage and resonate with audiences.
 
 ## Skills & Tools
 
