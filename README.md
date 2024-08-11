@@ -28,10 +28,8 @@ I am a passionate video editor with 3 years and 6 months of experience in creati
 
 ### Tools
 
-- **[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html):** My primary video editing software for most projects.
-- **[Final Cut Pro](https://www.apple.com/final-cut-pro/):** Used for editing on macOS.
-- **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):** For color grading and advanced editing.
-- **[After Effects](https://www.adobe.com/products/aftereffects.html):** For motion graphics and visual effects.
+- **[EDIUS](https://www.edius.net/):** My primary video editing software for most projects.
+- **[Adobe Photoshop](https://www.adobe.com/in/products/photoshop.html?gclid=Cj0KCQjwwuG1BhCnARIsAFWBUC2y-IokLnt-uitlcAQf-DT2wPKymQ40oMhW8SjD1XB7qQNtGYfacBYaAgPVEALw_wcB&sdid=ZXL8DWJ3&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwwuG1BhCnARIsAFWBUC2y-IokLnt-uitlcAQf-DT2wPKymQ40oMhW8SjD1XB7qQNtGYfacBYaAgPVEALw_wcB:G:s&s_kwcid=AL!3085!3!706062974834!b!!g!!adobe%20expand%20photo!21480252637!162146653622&gad_source=1):** to create a thumbnails.
 - **[Audacity](https://www.audacityteam.org/):** For audio editing and sound enhancement.
 
 ## Projects
