@@ -29,15 +29,16 @@ I am a passionate video editor with 3 years and 6 months of experience in creati
 ### Tools
 
 - **[EDIUS](https://www.edius.net/):** My primary video editing software for most projects.
+- **[Filmora](https://filmora.wondershare.net/filmora-video-editor.html?gad_source=1&gclid=Cj0KCQjwwuG1BhCnARIsAFWBUC39WfMoqkLmMAzBe_XPuoRup_VP-NQsCRiYSlRxGvN4B598IJX2b2QaAiO3EALw_wcB):** Apart from Edius, sometimes I also use Filmora for video editing.
 - **[Adobe Photoshop](https://www.adobe.com/in/products/photoshop.html?gclid=Cj0KCQjwwuG1BhCnARIsAFWBUC2y-IokLnt-uitlcAQf-DT2wPKymQ40oMhW8SjD1XB7qQNtGYfacBYaAgPVEALw_wcB&sdid=ZXL8DWJ3&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwwuG1BhCnARIsAFWBUC2y-IokLnt-uitlcAQf-DT2wPKymQ40oMhW8SjD1XB7qQNtGYfacBYaAgPVEALw_wcB:G:s&s_kwcid=AL!3085!3!706062974834!b!!g!!adobe%20expand%20photo!21480252637!162146653622&gad_source=1):** to create a thumbnails.
 - **[Audacity](https://www.audacityteam.org/):** For audio editing and sound enhancement.
 
 ## Projects
 
-### 1. **Project Name**
-   - **Description:** Brief overview of the project, including goals and outcomes.
-   - **Tools Used:** List the tools and software used.
-   - **Link to Video:** [YouTube/Vimeo link or embed video here]
+### 1. **Dancing Video (channel : Milan Studio Makrana live मिलन मकराना)**
+   - **Description:** Here i have make a dancing video and improve the audio quality.
+   - **Tools Used:** Edius & Adobe Photoshop.
+   - **Link to Video:** [https://youtu.be/Cesg4vPFS6Y?si=8beZlIW9u0HilzcI]
    - **Key Highlights:**
      - Describe a unique aspect of the project, like innovative techniques or creative challenges.
 
