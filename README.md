@@ -59,15 +59,6 @@ I approach each video project with a clear and structured workflow:
 3. **Post-production:** Editing, color grading, adding effects, and finalizing.
 4. **Feedback & Revisions:** Collaborating with clients for final adjustments.
 5. **Delivery:** Providing the finished product in the required formats.
-
-## Contact
-
-If you're interested in collaborating or have any inquiries, feel free to reach out:
-
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **Portfolio Website:** [Your Website](https://www.yourwebsite.com/)
-
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with fellow creatives and potential clients.
